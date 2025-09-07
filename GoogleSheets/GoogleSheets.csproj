@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="EPPlus" Version="8.1.0" />
     <PackageReference Include="Google.Apis.Auth" Version="1.70.0" />
     <PackageReference Include="Google.Apis.Core" Version="1.70.0" />
     <PackageReference Include="Google.Apis.Sheets.v4" Version="1.70.0.3819" />
